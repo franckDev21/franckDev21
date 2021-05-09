@@ -14,8 +14,8 @@ Developpeur web fullstack
 
 ![image](https://user-images.githubusercontent.com/82069062/117559525-07e8d780-b07e-11eb-9118-38865dca76da.png)
 ![image](https://user-images.githubusercontent.com/82069062/117559540-1cc56b00-b07e-11eb-9b1a-13b692661cf7.png)
-![image](https://user-images.githubusercontent.com/82069062/117559551-3070d180-b07e-11eb-8a0d-81fa55a4bd5d.png)
-![image](https://user-images.githubusercontent.com/82069062/117559555-4088b100-b07e-11eb-9e60-55809a743de5.png)
+![image](https://user-images.githubusercontent.com/82069062/117559575-644bf700-b07e-11eb-9b69-64a1e631c6db.png)
+
 
 
 ## Techno
