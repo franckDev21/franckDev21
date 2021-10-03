@@ -9,7 +9,7 @@ Developpeur web fullstack
 
 💬 Ce que je fait
 
-- En developpement Front-end  => **VueJs,Laravel PHP**
+- En developpement Front-end  => **VueJs , tailwind CSS**
 - En developpement Backend development =>  **Laravel ,PHP(Natif),PHP unit, Node JS(Express)
 
 
