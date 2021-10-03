@@ -9,7 +9,7 @@ Developpeur web fullstack
 
 💬 Ce que je fait
 
-- En developpement Front-end  => **VueJs, Angular, VanillaJS**
+- En developpement Front-end  => **VueJs,Laravel PHP**
 - En developpement Backend development =>  **Laravel ,PHP(Natif),PHP unit, Node JS(Express)**
 
 ![image](https://user-images.githubusercontent.com/82069062/117559525-07e8d780-b07e-11eb-9118-38865dca76da.png)
@@ -22,8 +22,7 @@ Developpeur web fullstack
 
 <code><img height="20" src="https://laravel.com/img/logomark.min.svg"></code>
 <code><img height="20" src="https://vuejs.org/images/logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+
 
 
 ## 📫 Contact
