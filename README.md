@@ -1,7 +1,5 @@
 # FrontEnd Developer | Web Integrator | Api developer  👨🏾‍💻
-
-
-Developpeur web 
+ 
 
 
 ## A propos
