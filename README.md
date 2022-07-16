@@ -16,9 +16,11 @@ Developpeur web
 
 ## Techno
 
-<img height="44" src="http://blog.ippon.fr/content/images/2016/04/react-javascript.png" alt="" >
-<img height="30" src="https://laravel.com/img/logomark.min.svg">
-<img height="30" src="https://vuejs.org/images/logo.png">
+<div style="display: flex">
+  <img height="44" src="http://blog.ippon.fr/content/images/2016/04/react-javascript.png" alt="" >
+  <img height="30" src="https://laravel.com/img/logomark.min.svg">
+  <img height="30" src="https://vuejs.org/images/logo.png">
+</div>
 
 
 
