@@ -10,7 +10,7 @@ Developpeur web
 💬 Ce que je fait
 
 - En developpement Front-end  => *React JS, VueJs , tailwind CSS, Boostrap, Vanilla JS*
-- En developpement Backend development =>  *Laravel ,PHP(Natif),PHP unit, Node JS(Express)
+- En developpement Backend development => Node JS(Express), Laravel ,PHP(Natif),PHP unit
 
 
 
