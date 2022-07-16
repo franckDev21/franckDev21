@@ -5,7 +5,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franckDev21&count_private=true&show_icons=true&hide=stars)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franckDev21)
    
 ## Languages, Tools, and Skills 🛠
 <div>
