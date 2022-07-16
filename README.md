@@ -1,28 +1,12 @@
 # FrontEnd Developer | Web Integrator | Api developer  👨🏾‍💻
  
 
-# Welcome fellow comrade
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=franckDev21&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eddyharold&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franckDev21&count_private=true&show_icons=true&hide=stars)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eddyharold&count_private=true&show_icons=true&hide=stars)
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ediharorudo)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franckDev21)
    
-## Social medias
- 
-<a href="https://www.linkedin.com/in/donfack-eddy-harold">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" />
-</a>
-
-<a href="mailto:donfackeddyharold@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail" />
-</a>
-
-<a href="https://twitter.com/EdiHarorudo">
-<img src="https://img.shields.io/badge/Twitter-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="gmail" />
-</a>
-
 ## Languages, Tools, and Skills 🛠
 <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
@@ -57,36 +41,25 @@
 
 ## GitHub Stats 📈
 <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eddyharold&layout=compact&hide_border=true&langs_count=10" alt="Top languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=franckDev21&layout=compact&hide_border=true&langs_count=10" alt="Top languages" />
 <div>
-    
-## Spotify
-    
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31n2pvcnmxktrwaceqjzrmmlnhqe&count=3&width=700)
-
 
 
 ## A propos
 
 😃 Curieux ,pationné et motivé !
 
-💬 Ce que je fait
+## Social medias
+ 
+<a href="https://www.linkedin.com/in/francklin-tiomela-687693204/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" />
+</a>
 
-- En developpement Front-end  => *React JS, VueJs , tailwind CSS, Boostrap, Vanilla JS*
-- En developpement Backend development => Node JS(Express), Laravel ,PHP(Natif),PHP unit
+<a href="mailto:francktiomela12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail" />
+</a>
 
+<a href="https://twitter.com/FranckDonfack">
+<img src="https://img.shields.io/badge/Twitter-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="gmail" />
+</a>
 
-
-## Techno
-
-<div style="display: flex">
-  <img height="44" src="http://blog.ippon.fr/content/images/2016/04/react-javascript.png" alt="" >
-  <img height="30" src="https://laravel.com/img/logomark.min.svg">
-  <img height="30" src="https://vuejs.org/images/logo.png">
-</div>
-
-
-
-## 📫 Contact
-
-- LinkedIn - [Franck Tiomela](https://www.linkedin.com/in/francklin-tiomela-687693204/)
