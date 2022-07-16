@@ -16,12 +16,12 @@ Developpeur web
 
 ## Techno
 
-<code><img height="44" src="http://blog.ippon.fr/content/images/2016/04/react-javascript.png" alt="" height="20"></code>
-<code><img height="20" src="https://laravel.com/img/logomark.min.svg"></code>
-<code><img height="20" src="https://vuejs.org/images/logo.png"></code>
+<img height="44" src="http://blog.ippon.fr/content/images/2016/04/react-javascript.png" alt="" >
+<img height="30" src="https://laravel.com/img/logomark.min.svg">
+<img height="30" src="https://vuejs.org/images/logo.png">
 
 
 
 ## 📫 Contact
 
-- LinkedIn - [Franck Tiomela](https://www.linkedin.com/in/franck-tiomela-687693204/)
+- LinkedIn - [Franck Tiomela](https://www.linkedin.com/in/francklin-tiomela-687693204/)
