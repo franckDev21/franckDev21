@@ -5,6 +5,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franckDev21&count_private=true&show_icons=true&hide=stars)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
    
 ## Languages, Tools, and Skills 🛠
 <div>
