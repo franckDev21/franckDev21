@@ -6,7 +6,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21&show_icons=true&theme=radical) -->
 <!-- [![franckDev21's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21)](https://github.com/franckDev21/github-readme-stats) -->
 <!-- [franckDev21's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21&count_private=true&theme=radical) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21)](https://github.com/anuraghazra/github-readme-stats)
    
 ## Languages, Tools, and Skills 🛠
 <div>
