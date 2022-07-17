@@ -5,7 +5,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21&show_icons=true&theme=radical) -->
 <!-- [![franckDev21's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21)](https://github.com/franckDev21/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21&count_private=true)
+![franckDev21's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21&count_private=true&theme=radical)
    
 ## Languages, Tools, and Skills 🛠
 <div>
