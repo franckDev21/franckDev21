@@ -5,7 +5,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franckDev21&count_private=true&show_icons=true&hide=stars)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=franckDev21&repo=music-app)](https://github.com/franckDev21/music-app)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21&show_icons=true&theme=radical)
 
    
 ## Languages, Tools, and Skills 🛠
