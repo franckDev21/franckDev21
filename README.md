@@ -4,7 +4,8 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=franckDev21&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21&show_icons=true&theme=radical) -->
-[![franckDev21's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21)](https://github.com/franckDev21/github-readme-stats)
+<!-- [![franckDev21's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21)](https://github.com/franckDev21/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckDev21&count_private=true)
    
 ## Languages, Tools, and Skills 🛠
 <div>
